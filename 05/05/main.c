@@ -12,7 +12,9 @@ int main()
 	int n;
 	scanf("%d", &n);
 	hanoi(n,A,B,C);
-	printf("Total = %d", (int)pow(2, n)-1);
+	printf("Total = %d\n", (int)pow(2, n)-1);
+	system("pause");
+	return 0;
 }
 
 void hanoi(int n, char A, char B, char C)
