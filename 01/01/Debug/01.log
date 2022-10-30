@@ -1,0 +1,3 @@
+﻿  main.c
+d:\ntut\程式\homework\hw3\ntut-hw3-2\01\01\main.c(10): warning C4013: 'getche' 未定義; 假設 extern 傳回整數
+  01.vcxproj -> D:\NTUT\程式\HOMEWORK\HW3\NTUT-HW3-2\01\Debug\01.exe
